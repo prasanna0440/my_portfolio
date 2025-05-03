@@ -1,0 +1,24 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    width:100%;
+}
+header{
+    width:100%;
+    background:rgb(76, 74, 74);
+    margin-top:-3%;
+    position:fixed;
+    padding:5% 10%
+}
+nav ul{
+    display:flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+nav ul li{
+    color:white;
+}
